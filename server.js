@@ -2,7 +2,6 @@ const express = require('express')
 const path = require('path')
 
 const colors = require('colors')
-const flash = require('connect-flash')
 
 const hbs = require('hbs')
 const bodyParser = require('body-parser')
