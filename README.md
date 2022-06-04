@@ -1,1 +1,1 @@
-"# Made with tailwind css and friends,Html 5" 
+"# Made with tailwind css,Html 5 and friends" 
